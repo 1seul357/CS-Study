@@ -1,4 +1,4 @@
-# ARP 프로토콜
+# ARP
 
 ### ARP가 하는 일
 
@@ -8,7 +8,7 @@
 
   ![ARP](ARP프로토콜.assets/ARP.PNG)
 
-- ARP 프로토콜 구조
+- ARP 구조
 
   > Source Hardware Address : 출발지 MAC 주소
   >
