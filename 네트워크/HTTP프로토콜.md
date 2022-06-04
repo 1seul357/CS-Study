@@ -26,11 +26,11 @@ HTTP의 특징은 Request / Response 동작에 기반하여 서비스를 제공�
 - HTTP 1.0의 특징 : "연결 수립, 동작, 연결 해제"의 단순함이 특징이다. HTML 문서를 전송 받은 뒤 연결을 끊고 다시 연결하여 데이터를 전송한다.
 - HTTP 1.0의 문제점 : 단순 동작이 반복되어 통신 부하가 발생할 수 있다.
 
-![img](11장_HTTP프로토콜.assets/img.PNG)
+![img](HTTP프로토콜.assets/img.PNG)
 
 - HTTP 1.0의 문제점을 개선한 HTTP 1.1
 
-![http1.1](11장_HTTP프로토콜.assets/http1.1.PNG)
+![http1.1](HTTP프로토콜.assets/http1.1.PNG)
 
 
 

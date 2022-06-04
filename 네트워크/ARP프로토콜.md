@@ -6,7 +6,7 @@
 
 - IP 주소는 모르더라도, APR를 통해 통신 가능
 
-  ![ARP](5장_ARP프로토콜.assets/ARP.PNG)
+  ![ARP](ARP프로토콜.assets/ARP.PNG)
 
 - ARP 프로토콜 구조
 
