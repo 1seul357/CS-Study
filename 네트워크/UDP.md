@@ -34,7 +34,8 @@ IP에서 오류가 발생한다면 ICMP에서 알려준다. 하지만 ICMP는 �
 - Length : 길이
 - Checksum : 오류 검출
 
-
+</br>
+</br>
 
 ### UDP 프로토콜 사용하는 프로그램
 
