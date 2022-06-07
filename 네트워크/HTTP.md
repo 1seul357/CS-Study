@@ -13,7 +13,8 @@
 - Python
 - Spring
 
-
+</br>
+</br>
 
 ### HTTP
 
@@ -32,7 +33,8 @@ HTTP의 특징은 Request / Response 동작에 기반하여 서비스를 제공�
 
 ![http1.1](HTTP프로토콜.assets/http1.1.PNG)
 
-
+</br>
+</br>
 
 ### HTTP 구조
 
@@ -65,8 +67,8 @@ HTTP의 특징은 Request / Response 동작에 기반하여 서비스를 제공�
     |   UNLINK    |     LINK Method에 의해 생성된 링크를 삭제하기 위해 사용     |
     |   OPTION    |  Client가 Server에게 사용 가능한 옵션을 질의하기 위해 사용  |
 
-
-
+</br>
+</br>
 
 ### HTTPS
 
