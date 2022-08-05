@@ -8,7 +8,7 @@
 
 </br>
 
-![img](C:\Users\user\OneDrive\바탕 화면\img.png)
+![img](데드락 (DeadLock).assets/img.png)
 
 프로세스 1과 프로세스 2가 자원 1, 2를 모두 얻어야 할 때, 
 
