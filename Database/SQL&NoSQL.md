@@ -41,7 +41,7 @@ NoSQL은 SQL 데이터베이스와 다르게 스키마와 관계가 없다. 테�
 
 ![NoSQL](SQL&NoSQL.assets/NoSQL.jpg)
 
-`Users` 컬렉션을 보면 데이터 구조가 첫번째는 `name`과 `age `인데, 두번째는 `firstName`과 `age` 임을 알 수 있다. 
+`Users` 컬렉션을 보면 데이터 구조가 첫번째는 `name`과 `age`인데, 두번째는 `firstName`과 `age` 임을 알 수 있다. 
 
 NoSQL은 Join이 필요하지 않는데, 이는 관련 데이터를 동일한 컬렉션에 넣어서 한꺼번에 관리하기 때문에 가능하다. Users와 Products, Orders 각각 데이터를 관리하는 것이 아니라 필요한 정보를 모두 Orders 컬렉션에 넣어 관리한다.
 
